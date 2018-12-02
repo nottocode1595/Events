@@ -1,0 +1,4 @@
+server:
+  rootPath: /*
+
+dateFormat: yyyy-MM-dd'T'HH:mmZ
